@@ -1,6 +1,6 @@
-package com.rodrigo.examendos.repositories;
+package com.rodrigo.tvShow.repositories;
 
-import com.rodrigo.examendos.models.User;
+import com.rodrigo.tvShow.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

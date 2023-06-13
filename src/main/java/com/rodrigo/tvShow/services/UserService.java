@@ -1,7 +1,7 @@
-package com.rodrigo.examendos.services;
+package com.rodrigo.tvShow.services;
 
-import com.rodrigo.examendos.models.User;
-import com.rodrigo.examendos.repositories.UserRepository;
+import com.rodrigo.tvShow.models.User;
+import com.rodrigo.tvShow.repositories.UserRepository;
 import org.mindrot.jbcrypt.BCrypt;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;

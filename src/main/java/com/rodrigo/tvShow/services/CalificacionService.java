@@ -1,9 +1,9 @@
-package com.rodrigo.examendos.services;
+package com.rodrigo.tvShow.services;
 
-import com.rodrigo.examendos.models.Calificacion;
-import com.rodrigo.examendos.models.Programa;
-import com.rodrigo.examendos.models.User;
-import com.rodrigo.examendos.repositories.CalificacionRepo;
+import com.rodrigo.tvShow.models.Calificacion;
+import com.rodrigo.tvShow.models.Programa;
+import com.rodrigo.tvShow.models.User;
+import com.rodrigo.tvShow.repositories.CalificacionRepo;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

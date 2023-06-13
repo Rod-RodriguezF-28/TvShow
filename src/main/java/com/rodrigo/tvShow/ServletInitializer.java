@@ -1,4 +1,4 @@
-package com.rodrigo.examendos;
+package com.rodrigo.tvShow;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

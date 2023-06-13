@@ -1,7 +1,7 @@
-package com.rodrigo.examendos.services;
+package com.rodrigo.tvShow.services;
 
-import com.rodrigo.examendos.models.Programa;
-import com.rodrigo.examendos.repositories.ProgramaRepo;
+import com.rodrigo.tvShow.models.Programa;
+import com.rodrigo.tvShow.repositories.ProgramaRepo;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

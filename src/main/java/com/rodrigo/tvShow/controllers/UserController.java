@@ -1,8 +1,8 @@
-package com.rodrigo.examendos.controllers;
+package com.rodrigo.tvShow.controllers;
 
-import com.rodrigo.examendos.models.LoginUser;
-import com.rodrigo.examendos.models.User;
-import com.rodrigo.examendos.services.UserService;
+import com.rodrigo.tvShow.models.LoginUser;
+import com.rodrigo.tvShow.models.User;
+import com.rodrigo.tvShow.services.UserService;
 import jakarta.servlet.http.HttpSession;
 import jakarta.validation.Valid;
 import org.springframework.stereotype.Controller;

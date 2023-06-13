@@ -1,4 +1,4 @@
-package com.rodrigo.examendos.models;
+package com.rodrigo.tvShow.models;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Pattern;

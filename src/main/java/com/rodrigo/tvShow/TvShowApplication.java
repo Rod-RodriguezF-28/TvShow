@@ -1,4 +1,4 @@
-package com.rodrigo.examendos;
+package com.rodrigo.tvShow;
 
 import org.apache.catalina.connector.Connector;
 import org.apache.coyote.ajp.AbstractAjpProtocol;

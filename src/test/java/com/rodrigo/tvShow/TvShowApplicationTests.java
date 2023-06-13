@@ -1,4 +1,4 @@
-package com.rodrigo.examendos;
+package com.rodrigo.tvShow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
